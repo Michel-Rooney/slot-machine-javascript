@@ -1,0 +1,5 @@
+
+> Commands (npm)
+npm init
+npm i prompt-sync
+node aqv.js
